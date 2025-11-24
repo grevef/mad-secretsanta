@@ -95,7 +95,7 @@ function OpenMyGroupsMenu()
 
         local groupOption = {
             title = group.group_name,
-            description = ('%s | %s %s'):format(statusText, locale('members'), group.member_count),
+            description = ('%s | %s: %s'):format(statusText, locale('members'), group.member_count),
             icon = statusIcon,
             metadata = {
                 {label = locale('created'), value = utils.formatDateTime(group.created_at)},
