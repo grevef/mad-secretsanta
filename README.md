@@ -18,6 +18,12 @@ Configure group size limits, enable/disable the gift list feature, customise gif
 
 Debug prints utilise [ox_lib prints](https://coxdocs.dev/ox_lib/Modules/Print/Shared). To enable debug mode, type in your console `set ox:printlevel "debug"`
 
+### Locale
+
+Set your language in your `server.cfg`, example: `setr ox:locale en`, where "en" is replaced with your chosen language based on the locale file you wish to use. Refer to [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) language codes.
+
+English is included by default, copy and replace for your own localisation.
+
 ### Bridge Systems
 
 The resource uses a modular bridge system for compatibility:
