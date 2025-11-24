@@ -385,7 +385,7 @@ lib.callback.register('mad-secretsanta:server:getMyGroups', function(source)
             sg.id,
             sg.group_name,
             sg.status,
-            sg.created_at,
+            UNIX_TIMESTAMP(sg.created_at) as created_at,
             sm.is_creator,
             sm.assigned_to_citizen_id,
             (SELECT COUNT(*) FROM secretsanta_members WHERE group_id = sg.id) as member_count
