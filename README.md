@@ -8,19 +8,7 @@ Configure group size limits, enable/disable the gift list feature, customise gif
 
 ## Preview
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5dd6df87-bde0-47d9-959d-80cd3cccb85d" alt="Main Menu" width="400"/>
-  <img src="https://github.com/user-attachments/assets/6a2e2418-cbe6-4be9-ac59-28f4164adc93" alt="Group Details" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e93e3398-e23f-46c7-8c21-e30e02458bf8" alt="Group Management" width="400"/>
-  <img src="https://github.com/user-attachments/assets/e41f802d-52b7-4649-9440-8c67533b1926" alt="Assignment Notification" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a5fdcf5f-51a0-4f97-aecc-3ceb0734d546" alt="Ready Confirmation" width="600"/>
-</div>
+[![Video Preview](https://github.com/user-attachments/assets/e134d746-fc57-4947-b00c-70810f761317)](https://youtu.be/VrLc7Lbj7Q4)
 
 ## Dependencies
 
